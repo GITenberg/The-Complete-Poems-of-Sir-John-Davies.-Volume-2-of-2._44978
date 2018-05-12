@@ -1,0 +1,40 @@
+_repo: The-Complete-Poems-of-Sir-John-Davies.-Volume-2-of-2._44978
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44978-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davies, John, Sir
+    aliases:
+    - Davys, John, Sir
+    - Davis, John, Sir
+    - Dauies, John, Sir
+    birthdate: 1569
+    deathdate: 1626
+    gutenberg_agent_id: '43016'
+    url: http://www.gutenberg.org/2009/agents/43016
+  editor:
+    agent_name: Grosart, Alexander Balloch
+    aliases:
+    - Grosart, Alexander B.
+    - Grosart, A. B. (Alexander Balloch)
+    birthdate: 1827
+    deathdate: 1899
+    gutenberg_agent_id: '6786'
+    url: http://www.gutenberg.org/2009/agents/6786
+description: ''
+gutenberg_issued: '2014-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+- !lcsh 'Davies, John, Sir, 1569-1626'
+title: The Complete Poems of Sir John Davies. Volume 2 of 2.
+url: http://www.gutenberg.org/ebooks/44978
